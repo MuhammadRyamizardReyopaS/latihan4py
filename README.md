@@ -73,5 +73,3 @@ sebagai contoh saya sertakan gambar di bawah ini
 
 
 
-
-## atas perhatiannya saya ucapkan terimakasih, apabila banyak penjelasan saya yang kurang dapat untuk di pahami saya minta maaf.
