@@ -1,4 +1,3 @@
-# latihan4py
 # pertemuan7
 ## **penjelasan tugas pertemuan 7**
 
@@ -70,7 +69,7 @@ for i in range(a):
 sebagai contoh saya sertakan gambar di bawah ini
 
 
-![scs4]foto/scs4.png
+![scs4]foto/scs4.PNG
 
 
 
