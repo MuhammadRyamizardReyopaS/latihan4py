@@ -33,7 +33,7 @@ pertama masukkan int, lalu di ikuti dengan perintah if elif dan else, sertakan p
  seperti contoh diatas, perintah akan if elif dan else akan di deklarasikan seperti yang terdapat pada contoh, untuk lebih lengkapnya seperti gambar di bawah ini
 
 
-![scs2]foto/scs2.png
+![scs2](ss2.jpeg)
 
 
 #### Buat program dengan perulangan bertingkat (nested) 
@@ -50,7 +50,7 @@ kali ini saya menggunakan for dan range sintaxnya seperti ini:
 '''
 sebagai contoh pemamparan seperti pada gambar
 
-![scs3]foto/scs3.png
+![scs3](ss3.jpeg)
 
 
 #### Tampilkan n bilangan acak yang lebih kecil dari 0.5. nilai n diisi pada saat runtime
@@ -69,7 +69,7 @@ for i in range(a):
 sebagai contoh saya sertakan gambar di bawah ini
 
 
-![scs4]foto/scs4.PNG
+![scs4](ss4.jpeg)
 
 
 
