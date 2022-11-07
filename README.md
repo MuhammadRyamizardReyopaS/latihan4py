@@ -5,7 +5,7 @@
 
 pertama masukkan int, lalu di ikuti dengan perintah if elif dan else, sertakan pula tanda < (lebih keci dari) untuk memberikan perintah. lebih jelasnya seperti pada foto
 
-![scs1]latihan4/ss1.PNG
+![scs1]foto/ss1.PNG
 
 #### Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 
